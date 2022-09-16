@@ -1,0 +1,20 @@
+overrides==3.1.0
+ml-collections==0.1.0
+tensorflow-gan==2.0.0
+tensorflow_io
+tensorflow_datasets==3.1.0
+tensorflow==2.4.0
+tensorflow-addons==0.12.0
+tensorflow_probability==0.12.0
+tensorboard==2.4.0
+absl-py==0.10.0
+ninja
+scipy
+natsort
+imageio
+-f https://storage.googleapis.com/jax-releases/jax_releases.html
+jax[cuda111]
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.7.1+cu110
+torchvision==0.8.2+cu110
+torchaudio==0.7.2
