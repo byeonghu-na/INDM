@@ -5,7 +5,7 @@
 
 This repo contains an official PyTorch implementation for the paper "[Maximum Likelihood Training of Implicit Nonlinear Diffusion Model](https://arxiv.org/abs/2205.13699)" in [NeurIPS 2022](https://neurips.cc/Conferences/2022/).
 
-**[Dongjun Kim](https://github.com/Kim-Dongjun) \*, [Byeonghu Na](https://github.com/wp03052) \*, Se Jung Kwon, Dongsoo Lee, Wanmo Kang, and Il-Chul Moon**   
+**[Dongjun Kim](https://github.com/Kim-Dongjun) \*, [Byeonghu Na](https://github.com/byeonghu-na) \*, Se Jung Kwon, Dongsoo Lee, Wanmo Kang, and Il-Chul Moon**   
 <sup> * Equal contribution </sup>
  
 --------------------
