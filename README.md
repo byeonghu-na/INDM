@@ -24,7 +24,16 @@ pip install -r requirements.txt
 
 ## Pretrained Checkpoints
 
-* We release our checkpoints [here](https://www.dropbox.com/sh/yapgdylhkm4j0hu/AACh4jvT7wtBgVNmiUprRSdCa?dl=0).
+We release our checkpoints [here](https://www.dropbox.com/sh/yapgdylhkm4j0hu/AACh4jvT7wtBgVNmiUprRSdCa?dl=0).
+
+
+## Stats files for FID evaluation
+
+Download stats files and save it to `./assets/stats/`.
+
+* For CIFAR-10, we use the stats file comes from [yang-song/score_sde_pytorch](https://github.com/yang-song/score_sde_pytorch/blob/main/README.md#stats-files-for-quantitative-evaluation).
+* For CelebA, we provide the stats file [`celeba_stats.npz`](https://www.dropbox.com/s/0y5c3q6qbehjxjx/celeba_stats.npz?dl=0).
+
 
 ## Training and Evaluation
 
